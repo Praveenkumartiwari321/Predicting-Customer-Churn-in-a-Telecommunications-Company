@@ -22,7 +22,7 @@ Customer churn is a significant concern for businesses, particularly in the tele
 EDA was performed to understand customer behavior and factors influencing churn. Key findings were visualized using graphs and charts:
 
 1. *Churn Distribution:*
-   - Approximately 26.5% of customers churned, indicating class imbalance.
+   - Approximately 26.5% of customers churned, indicating class imbalance strength.
 
 2. *Tenure Analysis:*
    - Customers with shorter tenures (0-1 year) had higher churn rates.
@@ -35,7 +35,7 @@ EDA was performed to understand customer behavior and factors influencing churn.
    - Month-to-month contracts had significantly higher churn rates compared to one-year and two-year contracts.
 
 5. *Payment Method:*
-   - Customers using electronic checks had higher churn rates.
+   - Customers using electronic checks that had higher churn rates.
 
 ### Task 3: Feature Engineering
 
